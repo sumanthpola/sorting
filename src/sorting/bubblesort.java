@@ -20,12 +20,11 @@ public void bubble(){
 	
 	
 }
-}
-class sta {
+
+
 	public static void main(String[] args) {
 		bubblesort j=new bubblesort();
 		j.bubble();
 		
 }}
-
 
