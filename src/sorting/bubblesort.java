@@ -9,7 +9,6 @@ public void bubble(){
 				int k=arr[j];
 				arr[j]=arr[j+1];
 				arr[j+1]=k;
-	
 				}			
 				
 			}
